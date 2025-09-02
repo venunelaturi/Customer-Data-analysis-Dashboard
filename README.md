@@ -60,6 +60,8 @@ To deliver actionable insights into customer behaviour, sales performance, and p
 	Used bar charts, pie charts, scatter plots, and line charts for clear representation.
 ## Analysis:
 	Performed descriptive analytics to extract actionable insights.
+
+# Insights
 ## Top Shopping Mall Revenue:
 	Mall of Istanbul leads with 109M revenue, followed closely by Kanyon (108M). These two malls significantly outperform others.
 	Sales by Category:
