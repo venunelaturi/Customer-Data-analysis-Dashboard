@@ -63,9 +63,9 @@ To deliver actionable insights into customer behaviour, sales performance, and p
 
 # Insights
 ## Top Shopping Mall Revenue:
-	-> Mall of Istanbul leads with 109M revenue, followed closely by Kanyon (108M). These two malls significantly outperform others.
-	-> Sales by Category:
-	-> Clothing is the top-selling category (244M), much higher than Shoes (143M) and Technology (124M). Cosmetics and Toys have minimal sales.
+	. Mall of Istanbul leads with 109M revenue, followed closely by Kanyon (108M). These two malls significantly outperform others.
+	. Sales by Category:
+	. Clothing is the top-selling category (244M), much higher than Shoes (143M) and Technology (124M). Cosmetics and Toys have minimal sales.
 ## Customer Age Groups:
 	Adults (26-40) and Middle Age (41-55) groups have the highest customer counts (29K each), while Young (18-25) is the lowest (15K).
 	Gender Distribution:
