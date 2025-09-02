@@ -4,3 +4,5 @@ The Customer Data Analysis Dashboard provides actionable insights into sales, cu
 To deliver actionable insights into customer behaviour, sales performance, and payment trends across shopping malls by visualizing key metrics, enabling stakeholders to make informed, data-driven decisions and optimize marketing, sales, and operational strategies.
 ## Dataset Used:
 - <a href="https://github.com/venunelaturi/Customer-Data-analysis-Dashboard/blob/main/customers.xlsx">Dataset</a>
+## Dashboard:
+- <a href="https://github.com/venunelaturi/Customer-Data-analysis-Dashboard/blob/main/Screenshot_2-9-2025_91828_.jpeg">Dashboard</a>
