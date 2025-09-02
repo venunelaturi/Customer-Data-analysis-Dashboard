@@ -79,7 +79,7 @@ To deliver actionable insights into customer behaviour, sales performance, and p
 	Plan inventory and staffing around seasonal revenue peaks.
 
 # Future Enhancements
-•	Integrate real-time data updates.
-•	Add predictive analytics for sales forecasting.
-•	Enable drill-down capabilities for detailed customer segmentation.
-•	Expand dashboard to include customer feedback and satisfaction metrics.
+	Integrate real-time data updates.
+	Add predictive analytics for sales forecasting.
+	Enable drill-down capabilities for detailed customer segmentation.
+	Expand dashboard to include customer feedback and satisfaction metrics.
