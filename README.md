@@ -6,6 +6,7 @@ To deliver actionable insights into customer behaviour, sales performance, and p
 - <a href="https://github.com/venunelaturi/Customer-Data-analysis-Dashboard/blob/main/customers.xlsx">Dataset</a>
 ## Dashboard:
 - <a href="https://github.com/venunelaturi/Customer-Data-analysis-Dashboard/blob/main/Screenshot_2-9-2025_91828_.jpeg">Dashboard</a>
+![Screenshot_2-9-2025_91828_](https://github.com/user-attachments/assets/ce05e63c-76e9-4b95-a17d-6ec27484431b)
 
 # Dashboard Components
 ## Top shopping malls by Revenue
