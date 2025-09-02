@@ -56,10 +56,34 @@ To deliver actionable insights into customer behaviour, sales performance, and p
 	Standardized date formats, handled missing values, and validated categorical fields.
 	Aggregation:
 	Grouped data by mall, category, age group, gender, and payment method for summary statistics.
-	Visualization:
+## Visualization:
 	Used bar charts, pie charts, scatter plots, and line charts for clear representation.
-	Analysis:
+## Analysis:
 	Performed descriptive analytics to extract actionable insights.
+## Top Shopping Mall Revenue:
+	Mall of Istanbul leads with 109M revenue, followed closely by Kanyon (108M). These two malls significantly outperform others.
+	Sales by Category:
+	Clothing is the top-selling category (244M), much higher than Shoes (143M) and Technology (124M). Cosmetics and Toys have minimal sales.
+## Customer Age Groups:
+	Adults (26-40) and Middle Age (41-55) groups have the highest customer counts (29K each), while Young (18-25) is the lowest (15K).
+	Gender Distribution:
+	Females make up 60% of customers (59.5K), males 40% (40K).
+## Payment Methods:
+	Credit Card is the most used payment method (45%), followed by Debit Card (35%) and Cash (20%).
+	Revenue by Age and Gender:
+	Females in the Adult (26-40) group contribute the highest revenue (26M), followed by Middle Age females (25M). Males contribute less across all age groups.
+## Revenue Trends:
+	Revenue is stable, with peaks around July 2021 and July 2022 (22M+ per month).
+## Total Metrics:
+	Total Quantity Sold: 299K
+	Total Revenue: 538.73M
+	Total Customers: 99.46K
+	Average Sales per Customer: 5.42K
+## Summary:
+	Focus marketing on Clothing, top malls, and female customers in the Adult and Middle Age groups.
+	Credit Card payments dominate; consider incentives for other payment methods.
+	Young customers and male customers are underrepresented; targeted campaigns could boost these segments.
+
 
 # Business Insights
 	Mall Performance:
