@@ -32,17 +32,21 @@ Compiled all visualizations and KPIs into a single, user-friendly dashboard to e
 
 # Insights
 ### Top Shopping Mall Revenue:
-	 Mall of Istanbul leads with 109M revenue, followed closely by Kanyon (108M).These two malls significantly outperform others.
-	 Sales by Category:
-	 Clothing is the top-selling category (244M), much higher than Shoes (143M) and Technology (124M).Cosmetics and Toys have minimal sales.
+	 Mall of Istanbul leads with 109M revenue, followed closely by Kanyon (108M).These two malls significantly 
+     outperform others.
+	 <-Sales by Category:
+	 Clothing is the top-selling category (244M), much higher than Shoes (143M) and Technology (124M).Cosmetics 
+     and Toys have minimal sales.
 ### Customer Age Groups:
-	Adults (26-40) and Middle Age (41-55) groups have the highest customer counts (29K each),while Young (18-25) is the lowest (15K).
-	Gender Distribution:
+	Adults (26-40) and Middle Age (41-55) groups have the highest customer counts (29K each),while 
+    Young (18-25) is the lowest (15K).
+    <-Gender Distribution:
 	Females make up 60% of customers (59.5K), males 40% (40K).
 ### Payment Methods:
 	Credit Card is the most used payment method (45%), followed by Debit Card (35%) and Cash (20%).
-	Revenue by Age and Gender:
-	Females in the Adult (26-40) group contribute the highest revenue (26M),followed by Middle Age females (25M).Males contribute less across all age groups.
+	<-Revenue by Age and Gender:
+	Females in the Adult (26-40) group contribute the highest revenue (26M),followed by Middle Age 
+    females (25M) and Males contribute less across all age groups.
 ### Revenue Trends:
 	Revenue is stable,with peaks around July 2021 and July 2022 (22M+ per month).
 ### Total Metrics:
@@ -57,25 +61,25 @@ Compiled all visualizations and KPIs into a single, user-friendly dashboard to e
 
 
 ## Business Insights
-	Mall Performance:
-	Mall of Istanbul and Kanyon are top revenue generators.
-	Category Trends:
+### Mall Performance:
+    Mall of Istanbul and Kanyon are top revenue generators.
+### Category Trends:
 	Clothing is the leading sales category.
-	Customer Demographics:
+### Customer Demographics:
 	Majority of customers are female and aged between 26-55.
-	Payment Preferences:
+### Payment Preferences:
 	Credit Card is the most popular payment method.
-	Seasonality:
+### Seasonality:
 	Revenue peaks observed in mid-year and end-of-year months.
 
 ## Business Recommendations
-	Focus marketing efforts on high-performing malls and categories.
-	Tailor promotions for dominant age groups and genders.
-	Enhance payment options, especially credit card facilities.
-	Plan inventory and staffing around seasonal revenue peaks.
+	1.Focus marketing efforts on high-performing malls and categories.
+	2.Tailor promotions for dominant age groups and genders.
+	3.Enhance payment options, especially credit card facilities.
+	4.Plan inventory and staffing around seasonal revenue peaks.
 
 ## Future Enhancements
-	Integrate real-time data updates.
-	Add predictive analytics for sales forecasting.
-	Enable drill-down capabilities for detailed customer segmentation.
-	Expand dashboard to include customer feedback and satisfaction metrics.
+	1.Integrate real-time data updates.
+	2.Add predictive analytics for sales forecasting.
+	3.Enable drill-down capabilities for detailed customer segmentation.
+	4.Expand dashboard to include customer feedback and satisfaction metrics.
