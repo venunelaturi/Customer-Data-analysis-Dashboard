@@ -1,18 +1,33 @@
 # Customer-Data-analysis-Dashboard
 The Customer Data Analysis Dashboard provides actionable insights into sales, customer demographics, and payment trends across shopping malls. It visualizes key metrics like revenue, sales by category, and customer segmentation, enabling stakeholders to make data-driven decisions and optimize business strategies.
-## Executive Summary
+# Executive Summary
 The customer data analysis reveals strong performance in retail sales, with a total revenue of 538.73M generated from 99.46K customers and 299K items sold. The Mall of Istanbul leads in revenue among shopping malls, while Clothing is the top-selling category. The customer base is predominantly female (60%), and the largest age groups are Adults (26-40) and Middle Age (41-55), each contributing 29K customers. Payment preferences show Credit Card as the most used method (45%). Revenue and sales are well-distributed across age groups, with consistent monthly performance and a healthy average sale per customer of 5.42K. These insights highlight robust sales channels, a diverse customer demographic, and opportunities for targeted marketing to further boost growth.
 ## Project Objective:
 To deliver actionable insights into customer behaviour, sales performance, and payment trends across shopping malls by visualizing key metrics, enabling stakeholders to make informed, data-driven decisions and optimize marketing, sales, and operational strategies.
-## Dataset Used:
+# Dataset Used:
 - <a href="https://github.com/venunelaturi/Customer-Data-analysis-Dashboard/blob/main/customers.xlsx">Dataset</a>
-## Business Problem:
+# Business Problem:
 A retail chain is experiencing stagnating revenue growth and wants to identify which customer segments, product categories, and sales channels to target in order to maximize sales and improve customer retention across its shopping malls.
 
-## Dashboard:
+# Dashboard:
 - <a href="https://github.com/venunelaturi/Customer-Data-analysis-Dashboard/blob/main/Screenshot_2-9-2025_91828_.jpeg">Dashboard</a>
 ![Screenshot_2-9-2025_91828_](https://github.com/user-attachments/assets/ce05e63c-76e9-4b95-a17d-6ec27484431b)
 
+# Methodology Used in Preparing the Dashboard:
+1.	Data Collection & Integration:
+Gathered transactional data from multiple shopping malls, including customer demographics, sales details, product categories, payment methods, and purchase dates.
+2.	Data Cleaning & Preparation:
+Standardized and cleaned the data to handle missing values, correct inconsistencies (e.g., date formats), and ensure accuracy for analysis.
+3.	Segmentation & Aggregation:
+Segmented customers by age group, gender, and payment method. Aggregated sales and revenue by mall, category, and time period to identify key trends.
+4.	KPI Calculation:
+Calculated key performance indicators such as total revenue, total quantity sold, customer count, and average sales per customer.
+5.	Visualization:
+Designed clear, interactive charts and graphs (bar charts, pie charts, line graphs) to visualize sales performance, customer distribution, and payment preferences.
+6.	Insight Generation:
+Highlighted actionable insights, such as top-performing malls, best-selling categories, and dominant customer segments, to address the business problem.
+7.	Dashboard Compilation:
+Compiled all visualizations and KPIs into a single, user-friendly dashboard to enable quick, data-driven decision-making for business growth.
 
 
 # Insights
@@ -53,7 +68,7 @@ A retail chain is experiencing stagnating revenue growth and wants to identify w
 	Seasonality:
 	Revenue peaks observed in mid-year and end-of-year months.
 
-# Recommendations
+# Business Recommendations
 	Focus marketing efforts on high-performing malls and categories.
 	Tailor promotions for dominant age groups and genders.
 	Enhance payment options, especially credit card facilities.
